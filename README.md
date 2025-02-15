@@ -19,7 +19,7 @@ Phase 9 --->> Hosting of Website.
 Phase 10 --->> Working with users feedback and making improvements in Project.   
 ⌄  
 ⌄  
-Phase (n) ------>>>>>>> To merge with Indian Government <<<<<<<------  
+Phase (n) ------>>>>>>
 
 The importance of keeping this project private is to safeguard trust and prevent any potential data loss.
 I truly value your insights and support in ensuring its success. 
